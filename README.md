@@ -8,8 +8,8 @@ O processo de criação de um banco de dados SQL na Plataforma Azure se dá por 
 Nesta seção inicial, especificamos informações fundamentais para a instância do banco de dados.
 
 - Assinatura: Qual assinatura do Azure será utilizada para provisionar e cobrar o recurso (ex: "Pay-as-you-go").
-Grupo de Recursos: O grupo de recursos ao qual o banco de dados e seus componentes associados (como o servidor lógico) pertencerão. Isso ajuda na organização e gerenciamento.
-Nome do Banco de Dados: O nome exclusivo para o seu banco de dados.
-Servidor: Para muitos bancos de dados relacionais, é necessário criar ou selecionar um servidor lógico existente que hospedará o banco de dados. Isso inclui definir um nome de servidor, login de administrador e senha, e a região.
-Região: A localização geográfica do data center onde o banco de dados e o servidor serão hospedados.
-Origem dos Dados (opcional): Possibilidade de criar um banco de dados em branco, restaurar de um backup ou usar um banco de dados de exemplo.
+- Grupo de Recursos: O grupo de recursos ao qual o banco de dados e seus componentes associados (como o servidor lógico) pertencerão. Isso ajuda na organização e gerenciamento.
+- Nome do Banco de Dados: O nome exclusivo para o seu banco de dados.
+- Servidor: Para muitos bancos de dados relacionais, é necessário criar ou selecionar um servidor lógico existente que hospedará o banco de dados. Isso inclui definir um nome de servidor, login de administrador e senha, e a região.
+- Região: A localização geográfica do data center onde o banco de dados e o servidor serão hospedados.
+- Origem dos Dados (opcional): Possibilidade de criar um banco de dados em branco, restaurar de um backup ou usar um banco de dados de exemplo.

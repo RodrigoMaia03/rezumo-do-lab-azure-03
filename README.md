@@ -2,6 +2,8 @@
 
 Este laboratório tem como objetivo praticar o processo de configuração de uma instância de Banco de Dados na plataforma Microsoft Azure. O entregável proposto é a criação de um repositório contendo resumos, anotações e dicas sobre o uso da Azure, servindo como material de apoio para estudos e futuras implementações.
 
+![Painel inicial do recurso de Banco de Dados SQL.](print1.png)
+
 O processo de criação de um banco de dados SQL na Plataforma Azure se dá por algumas etapas. Inicialmente, devemos procurar na aba lateral do ambiente Azure o campo _Banco de Dados SQL_ e acessá-lo. Em seguida, é necessário clicar em _Criar_ que será iniciado o procedimento de criação de um banco de dados relacional. Esse procedimento é descrito/realizado através das seguintes etapas: **Básico → Rede → Segurança → Configurações Adicionais → Rótulos → Revisar + Criar.**
 
 ## 1. Básico
